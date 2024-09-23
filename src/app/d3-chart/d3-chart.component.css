@@ -1,0 +1,11 @@
+#bar-chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  svg {
+    font: 10px sans-serif;
+  }
+  
